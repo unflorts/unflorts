@@ -1,25 +1,43 @@
-# Hey, Zabed here ⚛️
+# 👋 Hello, I'm Zabed
 
-**Quantum Lab**
+⚛️ Physics Student | 💻 Programmer | 🌌 Exploring the Universe with Code
 
-Physics student exploring the universe through science and code.
+I am passionate about **Physics, Quantum Mechanics, Astrophysics, and Computational Thinking**.  
+Currently I'm working on combining **science and programming** to build simulations and tools.
+
+---
 
 ## 🔬 Fields of Interest
 - Quantum Mechanics
 - Astrophysics
 - Computational Physics
-- Scientific Programming
+- Scientific Computing
+- Physics Simulations
+- Problem Solving
 
-## 💻 What I'm Learning
-- Python for scientific computing
-- Git & GitHub
-- Numerical simulations
-- Physics-based programming
+---
 
-## 🚀 Goals
-- Build physics simulations
-- Solve physics problems using code
-- Share learning and experiments
+## 💻 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📫 Connect
-GitHub: https://github.com/unflorts
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=unflorts&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unflorts&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+  GitHub: https://github.com/unflorts
+📧 Email: unflorts@gmail.com  
+📸 Instagram: https://instagram.com/unflorts
+
+---
+
+## ⚡ Current Goal
+Building **physics tools and simulations** using programming.
